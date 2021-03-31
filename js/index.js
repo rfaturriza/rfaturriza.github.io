@@ -2,7 +2,7 @@ $(document).ready(function(){
     const today = new Date().toLocaleDateString();
     const date = new Date().getHours();
     if(date >= 22 || date >= 0){
-        say = "🌃 Good Night"
+        say = "🌃 Good Night Popo"
     }else if( date >= 6){
         say="🌅 Good Morning"
     }else if( date >= 10){
