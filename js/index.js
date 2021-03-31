@@ -17,7 +17,7 @@ $(document).ready(function(){
           hour = minute * 60,
           day = hour * 24;
   
-    let birthday = "May 19, 2021 00:00:00",
+    let birthday = "May 19, 2021 02:38:00",
         countDown = new Date(birthday).getTime(),
         x = setInterval(function() {    
   
@@ -34,9 +34,9 @@ $(document).ready(function(){
                 countdown = document.getElementById("countdown"),
                 content = document.getElementById("content");
             
-            headline.innerText = "Happy birthday!";
+            headline.innerText = "Happy birthday! 🥳 🎉 🎂";
             countdown.style.display = "none";
-            content.style.display = "block";
+            content.style.display = "none";
   
             clearInterval(x);
           }
