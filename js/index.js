@@ -1,9 +1,7 @@
 $(document).ready(function(){
     const today = new Date().toLocaleDateString();
     const date = new Date().getHours();
-    if(date >= 22 || date >= 0){
-        say = "🌃 Good Night Popo"
-    }else if( date >= 6){
+    if( date >= 6){
         say="🌅 Good Morning"
     }else if( date >= 10){
         say="🌅 Good Afternoon"
@@ -17,7 +15,7 @@ $(document).ready(function(){
           hour = minute * 60,
           day = hour * 24;
   
-    let birthday = "May 19, 2021 02:38:00",
+    let birthday = "May 19, 2021 00:00:00",
         countDown = new Date(birthday).getTime(),
         x = setInterval(function() {    
   
