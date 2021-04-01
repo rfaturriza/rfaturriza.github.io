@@ -3,7 +3,7 @@ $(document).ready(function(){
     const date = new Date().getHours();
     if(date >= 22 && date <= 0){
         say = "🌃 Good Night"
-    }else if(date >= 0 && date <= 5){
+    }else if(date > 0 && date <= 5){
         say = "🌃 Good Night"
     }else if( date >= 6 && date < 10){
         say="🌅 Good Morning"
