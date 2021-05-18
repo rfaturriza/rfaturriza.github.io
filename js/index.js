@@ -29,8 +29,6 @@ $(document).ready(function(){
             $(".hours").html(Math.floor((distance % (day)) / (hour)));
             $(".minutes").html(Math.floor((distance % (hour)) / (minute)));
             $(".seconds").html(Math.floor((distance % (minute)) / second));
-
-            console.log(distance);
   
           //do something later when date is reached
           if (distance < 0) {
