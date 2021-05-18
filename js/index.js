@@ -36,9 +36,9 @@ $(document).ready(function(){
                 countdown = document.getElementById("countdown"),
                 content = document.getElementById("content");
             
-            headline.innerHTML = 'Happy birthday! 🥳 🎉 🎂 <br> ';
+            headline.innerHTML = 'Happy birthday! 🥳 🎉 🎂 ';
             countdown.style.display = "none";
-            content.innerHTML = "Selamat ulang tahun, semoga popo panjang umur, selalu bahagia, selalu diberkahi dan dilindungi oleh Allah SWT. Jangan lupa perbanyak ibadah. Jadi anak yang shalehah. Semoga kita selalu bisa sama-sama. Love popo 💖. Makan-makan jangan lupa :D";
+            content.innerHTML = "Selamat ulang tahun popo 💖, semoga popo panjang umur, selalu bahagia, selalu diberkahi dan dilindungi oleh Allah SWT. Jangan lupa perbanyak ibadah. Jadi anak yang shalehah. Semoga kita selalu bersama yaa hehe. Love popo 💖. Makan-makan jangan lupa :D";
   
             clearInterval(x);
           }
