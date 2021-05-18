@@ -29,6 +29,8 @@ $(document).ready(function(){
             $(".hours").html(Math.floor((distance % (day)) / (hour)));
             $(".minutes").html(Math.floor((distance % (hour)) / (minute)));
             $(".seconds").html(Math.floor((distance % (minute)) / second));
+
+            console.log(distance);
   
           //do something later when date is reached
           if (distance < 0) {
@@ -36,9 +38,9 @@ $(document).ready(function(){
                 countdown = document.getElementById("countdown"),
                 content = document.getElementById("content");
             
-            headline.innerText = "Happy birthday! 🥳 🎉 🎂";
+            headline.innerHTML = 'Happy birthday! 🥳 🎉 🎂 <br> ';
             countdown.style.display = "none";
-            content.style.display = "none";
+            content.innerHTML = "Selamat ulang tahun, semoga popo panjang umur, selalu bahagia, selalu diberkahi dan dilindungi oleh Allah SWT. Jangan lupa perbanyak ibadah. Jadi anak yang shalehah. Semoga kita selalu bisa sama-sama. Love popo 💖. Makan-makan jangan lupa :D";
   
             clearInterval(x);
           }

@@ -2744,7 +2744,6 @@ iframe {border: none;}
 }
 
 .flex-col-c-sb {
-	justify-content: space-between;
 	-ms-align-items: center;
 	align-items: center;
 }
