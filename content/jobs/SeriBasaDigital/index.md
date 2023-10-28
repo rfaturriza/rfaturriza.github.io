@@ -2,6 +2,7 @@
 date: '2023-11-1'
 title: 'Software Engineer'
 company: 'PT. Seri Basa Digital'
+short_company: 'SBD'
 location: 'Langsa, Indonesia'
 range: 'November - Present'
 url: 'https://seribasa.digital/'

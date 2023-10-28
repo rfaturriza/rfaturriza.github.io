@@ -2,6 +2,7 @@
 date: '2019-08-01'
 title: 'Head of Information Technology Department'
 company: 'BT/BS Bimafika'
+short_company: 'Bimafika'
 location: 'Banda Aceh, Indonesia'
 range: 'July 2019 - August 2020'
 url: 'https://www.instagram.com/bimafika_aceh/'

@@ -2,6 +2,7 @@
 date: '2023-11-30'
 title: 'Mobile Developer'
 company: 'PT. Code Development Indonesia'
+short_company: 'CodeID'
 location: 'Jakarta, Indonesia'
 range: 'March 2023 - Present'
 url: 'https://code.id/'

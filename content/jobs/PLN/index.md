@@ -2,6 +2,7 @@
 date: '2023-05-01'
 title: 'Front End Developer'
 company: 'PT. PLN (Persero) Distribusi Jawa Tengah'
+short_company: 'PLN'
 location: 'Semarang, Indonesia'
 range: 'May 2023 - August 2023'
 url: 'https://web.pln.co.id/'

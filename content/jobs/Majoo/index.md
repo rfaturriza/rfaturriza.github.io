@@ -2,6 +2,7 @@
 date: '2022-03-06'
 title: 'Mobile Engineer'
 company: 'PT. Majoo Teknologi Indonesia'
+short_company: 'Majoo'
 location: 'Malang, Indonesia'
 range: 'March 2022 - March 2023'
 url: 'https://majoo.id/'
