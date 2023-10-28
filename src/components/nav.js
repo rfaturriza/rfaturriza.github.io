@@ -205,8 +205,10 @@ const Nav = ({ isHome }) => {
     </div>
   );
 
+  const urlDriveCV =
+    'https://drive.google.com/file/d/1Cs8davkUzr0PPy3sx6Vh8JNr6tgnBdiN/view?usp=sharing';
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a className="resume-button" href={urlDriveCV} target="_blank" rel="noreferrer">
       Resume
     </a>
   );
