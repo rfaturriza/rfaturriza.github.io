@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/rfaturriza.github.io',
   siteMetadata: {
     title: 'Rizky Faturriza',
     description:
