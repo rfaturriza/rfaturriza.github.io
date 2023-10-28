@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rfaturriza.com/sitemap.xml
+Host: https://rfaturriza.com
