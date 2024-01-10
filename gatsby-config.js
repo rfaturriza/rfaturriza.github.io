@@ -5,8 +5,8 @@ module.exports = {
   siteMetadata: {
     title: 'Rizky Faturriza',
     description:
-      'I’m a software engineer specializing in building Mobile and Web applications. Currently, I’m focused on working at PT. Code Development Indonesia as a Mobile Developer (Placement client: BPJS Ketenagakerjaan).',
-    siteUrl: 'https://rfaturriza.com', // No trailing slash allowed!
+      'I’m a software engineer specializing in building Mobile and Web applications. Currently, I’m focused on working at BPJS Ketenagakerjaan as a Mobile Developer.',
+    siteUrl: 'https://rfaturriza.live', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@rfaturriza',
   },
