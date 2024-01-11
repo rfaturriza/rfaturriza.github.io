@@ -67,10 +67,10 @@ const Hero = () => {
       <p>
         I’m a software engineer specializing in building Mobile and Web applications. Currently, I’m
         focused on working at{' '}
-        <a href="https://www.code.id/" target="_blank" rel="noreferrer">
-          PT. Code Development Indonesia
+        <a href="https://bpjsketenagakerjaan.go.id/" target="_blank" rel="noreferrer">
+          BPJS Ketenagakerjaan
         </a>{' '}
-        as a Mobile Developer (Placement client: BPJS Ketenagakerjaan) .
+        as an Android Developer.
       </p>
     </>
   );
