@@ -6,9 +6,10 @@ github: 'https://github.com/rfaturriza/muslim_book'
 external: 'https://play.google.com/store/apps/details?id=com.rizz.quranku'
 tech:
   - Flutter
+  - Material 3
   - Clean Architecture
   - Freezed
-  - Easy Localization
+  - Localization
   - Bloc
   - Dio
   - Get It & Injectable
@@ -16,4 +17,4 @@ tech:
   - Fastlane CD
 ---
 
-Muslim Book is a Flutter project designed to provide a modern and user-friendly Quran application for users to read and explore the Quranic text. Please note that this project is a work in progress.
+Muslim Book is a Flutter project designed to provide a modern and user-friendly Quran application for users to read and explore the Quranic text.
